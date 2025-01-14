@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- BackEnd Developer<br>-  Student in systems development technician</p>
+<p align="left">- BackEnd Developer<br>-  Student in systems development technician<br><br> Backend developer with solid knowledge in REST and RESTful APIs, currently developing projects for studies, but always applying SOLID principles, clean architecture and design patterns, to create robust and scalable systems.</p>
 
 ###
 
