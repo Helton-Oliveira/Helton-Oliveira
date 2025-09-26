@@ -2,8 +2,6 @@
 
 ###
 
-## 👨‍💻 About Me
-
 💻 Bachelor’s degree student in Systems Analysis and Development.  
 🌐 Full-stack developer with 6 months of hands-on experience, working mainly with **Java (Spring Boot)** on the back-end and **Angular (TypeScript)** on the front-end.  
 📱 Currently learning **React Native** for mobile development and expanding my knowledge in **Node.js**.  
