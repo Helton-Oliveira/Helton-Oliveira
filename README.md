@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">- BackEnd Developer<br>-  Student in systems development technician<br><br> Backend developer with solid knowledge in REST and RESTful APIs, currently developing projects for studies, but always applying SOLID principles, clean architecture and design patterns, to create robust and scalable systems.</p>
+## 👨‍💻 About Me
+
+💻 Bachelor’s degree student in Systems Analysis and Development.  
+🌐 Full-stack developer with 6 months of hands-on experience, working mainly with **Java (Spring Boot)** on the back-end and **Angular (TypeScript)** on the front-end.  
+📱 Currently learning **React Native** for mobile development and expanding my knowledge in **Node.js**.  
+⚙️ Passionate about building scalable and maintainable systems by applying **SOLID principles, Clean Architecture, and design patterns**.  
+🚀 Focused on continuous improvement, always turning study projects into opportunities to practice real-world best practices.
 
 ###
 
@@ -26,8 +32,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />\
+   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo"  />
+   <img width="12" />
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
 </div>
 
